@@ -1,0 +1,8 @@
+{
+  "name": "V6.9 Projektentwicklung-Wohnraum.de",
+  "description": "High-End Redesign der Website Projektentwicklung Wohnraum mit GSAP Scroll-Video und minimalistischer Luxus-Ästhetik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
